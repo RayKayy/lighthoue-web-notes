@@ -2,9 +2,10 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Raymond for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Raymond](https://github.com/RayKayy) for the Lighthouse Labs Web Development Bootcamp.
 
-[Link Text](https://github.com/RayKayy)
+## Table of Contents
 
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+
